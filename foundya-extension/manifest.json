@@ -1,0 +1,17 @@
+{
+  "manifest_version": 2,
+
+  "name": "Found-Ya",
+  "description": "Chat application over web browsing.",
+  "version": "0.0.1",
+
+  "permissions": [
+    "tabs",
+    "http://foundyaapp-env.elasticbeanstalk.com/"
+  ],
+  
+  "browser_action": {
+    "default_icon": "images/chat.png",
+    "default_popup": "popup.html"
+  }
+}
