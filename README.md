@@ -12,9 +12,9 @@ FoundYa makes browsing the internet a social experience. FoundYa is a Chrome ext
 
 ## Motivation / Use Cases
 
-Although billions of people use modern browsers and there are thousands of social networking sites, browsing non social networking sites is in general a non social experience. The only social aspect of browsing for example a news article is the ability to post comments to the bottom of the website. However, this is limited only to the article on that specific website. Also the experience is far from the real-time experience of a conversation or a chat.
+Although billions of people use modern browsers and there are thousands of social networking sites, browsing non social networking sites is in general a non social experience. The only social aspect of browsing for example a news article is the ability to post comments to the bottom of the article. However, this is limited only to the article on that specific website. Also the experience is far from the real-time experience of a conversation or a chat.
 
-In addition people browsing some url are interested in general in the topic of that url. These users are highly likely to have many commonalities with each other. Therefore connecting these user will enable users to:
+In addition people browsing some url are interested in general in the topic of that url. These users are highly likely to have many commonalities with each other. Therefore connecting these users can enable them to:
 - Discuss a particular page/part of a website with others
 - Meet new people
 
