@@ -6,16 +6,28 @@ Chat with people browsing a similar web page to yours
 
 To watch a longer demo click here: [FoundYa Demo](http://youtu.be/kDOvchyLKYM)
 
-
 ## Description
 
 FoundYa makes browsing the internet a social experience. FoundYa is a Chrome extension that connects users browsing similar web pages and enables them to chat with each other. Users are assigned to categorical chatrooms that are created based on the page that each user visits, thus allowing people in the same chatroom to with each other.
 
+## Motivation / Use Cases
 
-## Use Cases
+Although billions of people use modern browsers and there are thousands of social networking sites, browsing non social networking sites is in general a non social experience. The only social aspect of browsing for example a news article is the ability to post comments to the bottom of the website. However, this is limited only to the article on that specific website. Also the experience is far from the real-time experience of a conversation or a chat.
+
+In addition people browsing some url are interested in general in the topic of that url. These users are highly likely to have many commonalities with each other. Therefore connecting these user will enable users to:
+- Discuss a particular page/part of a website with others
+- Meet new people
 
 
-## Additional Information
+## Client-Side
 
-This application
+The client-side was implemented as a Chrome extension using:
+- HTML
+- CSS
+- JavaScript
+
+
+## Server-Side
+
+The application was deployed using AWS - Elastic Beanstalk. User login and message exchange is implemented by using an Amazon AWS RDS database. Finally the url each user is browsing is categorized by using the [Alchemy API](http://www.alchemyapi.com/) for URL Taxonomy.
 
