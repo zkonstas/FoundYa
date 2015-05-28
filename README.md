@@ -10,7 +10,7 @@ To watch a longer demo click here: [FoundYa Demo](http://youtu.be/kDOvchyLKYM)
 
 FoundYa makes browsing the internet a social experience. FoundYa is a Chrome extension that connects users browsing similar web pages and enables them to chat with each other.
 
-The url each user visits is resolved to a categorical chatroom based on it's content using the Alchemy API](http://www.alchemyapi.com/) for URL Taxonomy. Users assigned to the same chatroom are connected and can immediately chat with each other.
+The url each user visits is resolved to a categorical chatroom based on its content using the [Alchemy API](http://www.alchemyapi.com/) for URL Taxonomy. Users assigned to the same chatroom are connected and can immediately start chatting with each other.
 
 ## Motivation / Use Cases
 
